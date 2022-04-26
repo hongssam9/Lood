@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Lood/static/css/main.736167dc.css",
+    "main.js": "/Lood/static/js/main.21fc2aed.js",
+    "static/media/logo512.png": "/Lood/static/media/logo512.b37536ed7dbef062e90c.png",
+    "index.html": "/Lood/index.html",
+    "main.736167dc.css.map": "/Lood/static/css/main.736167dc.css.map",
+    "main.21fc2aed.js.map": "/Lood/static/js/main.21fc2aed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.736167dc.css",
+    "static/js/main.21fc2aed.js"
+  ]
+}
