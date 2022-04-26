@@ -1,0 +1,39 @@
+.home{
+    position: relative;
+    top:20px;
+}
+
+.home__img{
+    height: 300px;
+    width: 360px;
+   
+}
+
+.home__buttons--container{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.home__yesno{
+    font-size: 30px;
+    padding: 30px; 
+}
+
+#home__yah{
+    background-color: rgb(63, 179, 63);
+    border-radius: 20px 5px 20px;
+}
+
+#home__nah{
+    background-color: rgb(209, 100, 49);
+    border-radius: 5px 20px 5px;
+}
+
+#home__checkout{
+    border-radius: 10px/30px;
+    padding: 10px;
+    background-color: transparent;
+    font-weight: bold;
+    margin: 0 20px
+}

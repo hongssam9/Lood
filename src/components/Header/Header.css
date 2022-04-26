@@ -1,0 +1,29 @@
+.header{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    padding: 10px;
+}
+
+#header__logo{
+    height: 100px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header__menu {
+    border: none;
+    background-color:white;
+    position: absolute;
+    right: 50px;
+    top: 50px;
+}
+
+.header__menu--bar{
+    width: 30px;
+    height: 3px;
+    background-color: rgb(0, 0, 0);
+    margin: 4px 0;
+}

@@ -1,0 +1,16 @@
+.checkout__checkMatch {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+}
+
+.checkout__images {
+    height: 110px;
+    width: 110px;
+    border-radius: 400px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border-style: dotted;
+    border-color: red Green White Gold;
+}
